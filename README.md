@@ -59,3 +59,18 @@ Install the dependencies using:
 
 ```bash
 pip install -r requirements.txt
+```
+## Screenshots
+![image](https://github.com/WiTheR60334/Brain-Tumor-Segmentation-with-U-Net/assets/115364885/d68cd606-157b-4503-bda0-67cb0bb36fb5)
+
+![image](https://github.com/WiTheR60334/Brain-Tumor-Segmentation-with-U-Net/assets/115364885/6b474961-286f-430b-91f5-8537e68cec19)
+
+![Screenshot 2024-06-05 200819](https://github.com/WiTheR60334/Brain-Tumor-Segmentation-with-U-Net/assets/115364885/9e12753d-cbe9-4d7d-8d23-8f96d460f094)
+
+## Contact
+For any inquiries or assistance, feel free to contact me at enderwither1234@gmail.com.
+
+## Author
+`Romir Bedekar`
+
+Enjoy exploring and building upon this brain tumor segmentation model!
