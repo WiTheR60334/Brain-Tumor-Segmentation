@@ -1,0 +1,7 @@
+numpy
+matplotlib
+nibabel
+tensorflow
+scikit-learn
+tifffile
+segmentation_models_3D
